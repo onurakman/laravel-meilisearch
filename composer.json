@@ -1,5 +1,5 @@
 {
-    "name": "eelcol/laravel-meilisearch",
+    "name": "onurakman/laravel-meilisearch",
     "description": "Simple Laravel wrapper to use Meilisearch",
     "keywords": [
         "laravel"
